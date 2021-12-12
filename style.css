@@ -1,0 +1,41 @@
+body{
+background: #c94b4b; 
+background: -webkit-linear-gradient(to right, #4b134f, #c94b4b);  
+background: linear-gradient(to right, #4b134f, #c94b4b);
+font-family: 'Lobster', cursive;
+}
+.img{
+height:300px;
+width:350px;
+}
+#title{
+background-color:peachpuff;
+margin-top:-20;
+height:10%;
+}
+#in_title{
+color:red;
+}
+#note{
+color:grey;
+}
+#start{
+height:45px;
+width:75px;
+font-size:18px;
+}
+#sound_title{
+color:whitesmoke;
+}
+#accuracy_title{
+color:whitesmoke;
+}
+#footer{
+position:fixed;
+bottom:0;
+background-color:peachpuff;
+width:100%;
+text-align:center;
+font-size:20px;
+height:8%;
+}
